@@ -1,6 +1,6 @@
 # Time Series Model for Household Power Consumption
 
-A time series model that analyzes and predicts power consumption patterns based on 10 years of recorded data of cosumed power in the U.S
+A time series model that analyzes and predicts power consumption patterns based on 10 years of recorded data in the U.S
 
 ## Authors
 
