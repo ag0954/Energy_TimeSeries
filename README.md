@@ -2,10 +2,8 @@
 
 ## Authors
 
-Abraham Gutierrez
-Robin Shrestha
-
-![Project Banner](figures/gap_analysis_gap_threshold_10.png)
+- Abraham Gutierrez
+- Robin Shrestha
 
 ## Overview
 This project develops a predictive model to analyze and forecast U.S. household power consumption using 10 years of data (~2M records). By leveraging Python, pandas, and scikit-learn, we created a KNN-based time series model to identify usage patterns, predict future consumption, and provide actionable insights for energy efficiency. The project demonstrates skills in data management, analysis, visualization, and process documentation, aligning with data-driven roles like the Del Monte Foods IT internship.
