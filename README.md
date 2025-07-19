@@ -35,7 +35,7 @@ This project develops a predictive model to analyze and forecast U.S. household 
 5. **Modeling**: Trained and evaluated 7 regression models, optimizing KNN for best performance.
 6. **Visualization**: Generated plots for gap analysis, consumption trends, and model predictions.
 
-![Data Pipeline](figures/data_pipeline_flowchart.png)
+![Data Pipeline](data_pipeline_flowchart.png)
 *Figure: Data pipeline for preprocessing, analysis, and visualization.*
 
 ## Results
@@ -44,7 +44,7 @@ This project develops a predictive model to analyze and forecast U.S. household 
 - **Model Performance**: KNN model achieved RMSLE of 0.033279, outperforming Decision Tree and Gradient Boosting.
 - **Insights**: Identified peak consumption periods (e.g., seasonal trends), enabling recommendations for energy-saving strategies.
 
-![Time Series Plot](figures/avg_consumption.png)
+![Time Series Plot](avg_consumption.png)
 *Figure: Daily, weekly, and monthly average consumption trends.*
 
 ## Challenges and Solutions
@@ -54,9 +54,6 @@ This project develops a predictive model to analyze and forecast U.S. household 
   - **Solution**: Optimized KNN with hyperparameter tuning for better accuracy.
 - **Challenge**: Computational resource constraints in Deepnote.
   - **Solution**: Streamlined data processing to reduce memory usage.
-
-## Presentation
-View the full project presentation for a detailed overview and stakeholder insights: [ML Project Demo Presentation](docs/ML_Project_Demo_Presentation.pdf).
 
 ## Skills Demonstrated
 - **Technical**: Python, pandas, scikit-learn, Matplotlib, seaborn, SQL (data handling concepts).
